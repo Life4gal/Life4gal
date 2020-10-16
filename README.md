@@ -19,19 +19,19 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Life4gal&show_icons=true&theme=synthwave"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Life4gal&show_icons=true&theme=synthwave"/>
 
-[![forthebadge](https://forthebadge.com/images/badges/ages-18.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/fo-real.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
+<img align="right" src="https://forthebadge.com/images/badges/ages-18.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/built-by-developers.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/fixed-bugs.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/fo-real.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/for-you.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/made-with-markdown.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/made-with-python.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/makes-people-smile.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/works-on-my-machine.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg"/>
 <img align="right" src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg"/>
