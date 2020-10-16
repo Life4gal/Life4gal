@@ -14,24 +14,23 @@
   🙏 大佬带带我
 </details>
 
-![头像](./80278148_p0_master1200.jpg)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Life4gal&hide=html&show_icons=true&theme=synthwave"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Life4gal&show_icons=true&theme=synthwave"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Life4gal&show_icons=true&theme=synthwave"/>
+![pic](./80278148_p0_master1200.jpg)
 
-<img align="bottom" src="https://forthebadge.com/images/badges/ages-18.svg"/>
-<img align="bottom" src="https://forthebadge.com/images/badges/built-by-developers.svg"/>
-<img align="bottom" src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg"/>
-<img align="bottom" src="https://forthebadge.com/images/badges/fixed-bugs.svg"/>
-<img align="bottom" src="https://forthebadge.com/images/badges/fo-real.svg"/>
-<img align="bottom" src="https://forthebadge.com/images/badges/for-you.svg"/>
-<img align="bottom" src="https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg"/>
-<img align="bottom" src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg"/>
-<img align="bottom" src="https://forthebadge.com/images/badges/made-with-markdown.svg"/>
-<img align="bottom" src="https://forthebadge.com/images/badges/made-with-python.svg"/>
-<img align="bottom" src="https://forthebadge.com/images/badges/makes-people-smile.svg"/>
-<img align="bottom" src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg"/>
-<img align="bottom" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg"/>
-<img align="bottom" src="https://forthebadge.com/images/badges/works-on-my-machine.svg"/>
-<img align="bottom" src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg"/>
-<img align="bottom" src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Life4gal&hide=html&show_icons=true&theme=synthwave"/>
+<img align="right" src="https://forthebadge.com/images/badges/ages-18.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/built-by-developers.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/fixed-bugs.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/fo-real.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/for-you.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Life4gal&show_icons=true&theme=synthwave"/>
+<img align="right" src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/made-with-markdown.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/made-with-python.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/makes-people-smile.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/works-on-my-machine.svg"/>
+<img align="right" src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Life4gal&show_icons=true&theme=synthwave"/>
