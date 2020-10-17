@@ -27,3 +27,12 @@
 <img src="https://wakatime.com/share/@Life4gal/ac7abe28-ca49-466f-b6f6-d3eb6b20755c.svg"/>
 <img src="https://wakatime.com/share/@Life4gal/c8651fd7-4bd9-447f-97c7-1b8d9bf19cf9.svg"/>
 <img src="https://wakatime.com/share/@Life4gal/28c1e1b2-e430-4014-9429-4371501f7451.svg"/>
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
