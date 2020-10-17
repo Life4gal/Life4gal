@@ -19,10 +19,10 @@
 <img src="https://forthebadge.com/images/badges/ages-18.svg"/> <img src="https://forthebadge.com/images/badges/built-by-developers.svg"/> <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg"/> <img src="https://forthebadge.com/images/badges/fixed-bugs.svg"/> <img src="https://forthebadge.com/images/badges/fo-real.svg"/>
 <img src="https://forthebadge.com/images/badges/for-you.svg"/> <img src="https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg"/> <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg"/> <img src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg"/> <img src="https://forthebadge.com/images/badges/made-with-markdown.svg"/> <img src="https://forthebadge.com/images/badges/made-with-python.svg"/>
 <img src="https://forthebadge.com/images/badges/makes-people-smile.svg"/> <img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg"/> <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg"/> <img src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg"/>
- 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Life4gal&hide=html&show_icons=true&theme=synthwave"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Life4gal&show_icons=true&theme=synthwave"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Life4gal&show_icons=true&theme=synthwave"/>
+
+<img align="right" src="https://github-readme-stats.life4gal.vercel.app/api/top-langs/?username=Life4gal&hide=html&show_icons=true&theme=synthwave"/>
+<img align="right" src="https://github-readme-stats.life4gal.vercel.app/api?username=Life4gal&show_icons=true&theme=synthwave"/>
+<img align="right" src="https://github-readme-stats.life4gal.vercel.app/api/wakatime?username=Life4gal&show_icons=true&theme=synthwave"/>
 
 <img src="https://wakatime.com/share/@Life4gal/ac7abe28-ca49-466f-b6f6-d3eb6b20755c.svg"/>
 <img src="https://wakatime.com/share/@Life4gal/c8651fd7-4bd9-447f-97c7-1b8d9bf19cf9.svg"/>
