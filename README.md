@@ -23,6 +23,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Life4gal&hide=html&show_icons=true&theme=synthwave"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Life4gal&show_icons=true&theme=synthwave"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Life4gal&show_icons=true&theme=synthwave"/>
-<img src="https://wakatime.com/share/@Life4gal/fff14454-ec73-48a5-ac4c-83779a7050c4.svg"/>
-<img src="https://wakatime.com/share/@Life4gal/b387f35e-7276-41d6-b3a7-bd68f587b848.svg"/>
-<img src="https://wakatime.com/share/@Life4gal/394e8816-aa59-44e4-be6c-82b77e7706af.svg"/>
+
+<img src="https://wakatime.com/share/@Life4gal/ac7abe28-ca49-466f-b6f6-d3eb6b20755c.svg"/>
+<img src="https://wakatime.com/share/@Life4gal/c8651fd7-4bd9-447f-97c7-1b8d9bf19cf9.svg"/>
+<img src="https://wakatime.com/share/@Life4gal/28c1e1b2-e430-4014-9429-4371501f7451.svg"/>
