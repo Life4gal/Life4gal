@@ -14,6 +14,11 @@
   🙏 大佬带带我
 </details>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=life4gal&label=Profile%20views&color=0e75b6&style=flat" alt="life4gal" /> </p>
+
 ![pic](./80278148_p0_master1200.jpg)
 
 <img src="https://forthebadge.com/images/badges/ages-18.svg"/> <img src="https://forthebadge.com/images/badges/built-by-developers.svg"/> <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg"/> <img src="https://forthebadge.com/images/badges/fixed-bugs.svg"/> <img src="https://forthebadge.com/images/badges/fo-real.svg"/>
