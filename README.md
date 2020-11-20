@@ -1,26 +1,25 @@
 ### Hi there 👋! ✨Life4gal✨ is here!O(∩_∩)O~
 
-
-<b><details><summary>💡 关于我(About me)</summary></b>
-      <b>我是笨蛋哦,你愿意和我做朋友吗?真正的朋友哦</b>
-      <b><-超级咸鱼-><-重度宅男<del>(其实是有交流障碍和社交恐惧症)</del>-><-卑微码农-><-重度人格分裂(?)-></b>
-      <del><b>如果碰到有兴趣的话题会变身为话唠</b></del>
-      <del><b>喜欢写别人看不懂的代码</b></del>
-      <del><b>只要没人看的懂我的代码,就没人敢说我写的代码不好 <- 理直气壮</b></del> 
-    <details>
-    <summary><b>不喜欢<del>(信你个鬼)</del>打游戏</b></summary>
-        其实是打游戏太菜
-    </details>
-    <details>
-    <summary><b>擅长<del>(并不)</del>二进制逆向</b></summary>
-        其实还是因为打游戏太菜才去学的逆向
-        数据这种东西嘛,随便改改就好了嘛 <- 理直气壮
-    </details>
-    <b>口头禅: 不偷懒,哪有力气学习?</b>
-    <b>擅长的语言: C, <del>C++</del>, Python</b>
-    <b>🙏🙏🙏大佬带带我 :)🙏🙏🙏</b>
+<details>
+	<summary>💡 关于我(About me)</summary>
+	<b>我是笨蛋哦,你愿意和我做朋友吗?真正的朋友哦</b><br>
+	<b><-超级咸鱼-><-重度宅男<del>(其实是有交流障碍和社交恐惧症)</del>-><-卑微码农-><-重度人格分裂(?)-></b><br>
+	<del><b>如果碰到有兴趣的话题会变身为话唠</b></del><br>
+	<del><b>喜欢写别人看不懂的代码</b></del><br>
+	<del><b>只要没人看的懂我的代码,就没人敢说我写的代码不好 <- 理直气壮</b></del><br>
+	<details>
+        <summary><b>不喜欢<del>(信你个鬼)</del>打游戏</b></summary>
+			其实是打游戏太菜
+	</details>
+	<details>
+	<summary><b>擅长<del>(并不)</del>二进制逆向</b></summary>
+			其实还是因为打游戏太菜才去学的逆向<br>
+			数据这种东西嘛,随便改改就好了嘛 <- 理直气壮
+	</details>
+	<b>口头禅: 不偷懒,哪有力气学习?</b><br>
+	<b>擅长的语言: C, <del>C++</del>, Python</b><br>
+	<b>🙏🙏🙏大佬带带我 :)🙏🙏🙏</b>
 </details>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
