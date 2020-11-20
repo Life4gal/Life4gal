@@ -17,8 +17,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=life4gal&label=Profile%20views&color=0e75b6&style=flat" alt="life4gal" /> </p>
-
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=life4gal&label=Profile%20views&color=0e75b6&style=flat" alt="life4gal"> 
+</p>
 ![pic](./80278148_p0_master1200.jpg)
 
 
