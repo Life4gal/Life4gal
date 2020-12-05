@@ -20,6 +20,14 @@
 	<b>擅长的语言: C, <del>C++</del>, Python</b><br>
 	<b>🙏🙏🙏大佬带带我 :)🙏🙏🙏</b>
 </details>
+
+#### adworld.xctf-REVERSE: <img src="https://wakatime.com/badge/github/Life4gal/adworld.xctf-REVERSE.svg"/>
+#### FromZero2D3D: <img src="https://wakatime.com/badge/github/Life4gal/FromZero2D3D.svg"/>
+#### pwnable.kr: <img src="https://wakatime.com/badge/github/Life4gal/pwnable.kr.svg"/>
+#### Tetris-AI: <img src="https://wakatime.com/badge/github/Life4gal/Tetris-AI.svg"/>
+#### VulkanLearning: <img src="https://wakatime.com/badge/github/Life4gal/VulkanLearning.svg"/>
+#### Other: infinite
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
