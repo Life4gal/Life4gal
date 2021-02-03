@@ -41,6 +41,6 @@
 </p>
 
 <img src="https://wakatime.com/share/@Life4gal/633d8d59-f19c-49e3-ab6d-d1978de891a7.svg"/>
-<img src="https://wakatime.com/share/@Life4gal/b7417c88-7449-4320-a5c7-6f4eb08408a1.svg"/>
-<img src="https://wakatime.com/share/@Life4gal/b454acf6-5dd0-4822-9f1a-db2e5c117d28.svg"/>
-<img src="https://wakatime.com/share/@Life4gal/586a36d7-1f0d-48d8-8951-4e78ef165858.svg"/>
+<img src="https://wakatime.com/share/@Life4gal/7afc6a15-a71f-4d74-9d3e-f6b047170efe.svg"/>
+<img src="https://wakatime.com/share/@Life4gal/8e3ea035-ad45-4a5e-abfd-3cc0bf46b583.svg"/>
+<img src="https://wakatime.com/share/@Life4gal/2420db5f-5f96-43d2-8daa-1a1ec8908b88.svg"/>
