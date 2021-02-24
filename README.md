@@ -1,24 +1,24 @@
 ### Hi there 👋! ✨Life4gal✨ is here!O(∩_∩)O~
 
 <details>
-	<summary>💡 关于我(About me)</summary>
-	<b>我是笨蛋哦,你愿意和我做朋友吗?真正的朋友哦</b><br>
-	<b><-超级咸鱼-><-重度宅男<del>(其实是有交流障碍和社交恐惧症)</del>-><-卑微码农-><-重度人格分裂(?)-></b><br>
-	<del><b>如果碰到有兴趣的话题会变身为话唠</b></del><br>
-	<del><b>喜欢写别人看不懂的代码</b></del><br>
-	<del><b>只要没人看的懂我的代码,就没人敢说我写的代码不好 <- 理直气壮</b></del><br>
-	<details>
-        <summary><b>不喜欢<del>(信你个鬼)</del>打游戏</b></summary>
-			其实是打游戏太菜
-	</details>
-	<details>
-	<summary><b>擅长<del>(并不)</del>二进制逆向</b></summary>
-			其实还是因为打游戏太菜才去学的逆向<br>
-			数据这种东西嘛,随便改改就好了嘛 <- 理直气壮
-	</details>
-	<b>口头禅: 不偷懒,哪有力气学习?</b><br>
-	<b>擅长的语言: C, <del>C++</del>, Python</b><br>
-	<b>🙏🙏🙏大佬带带我 :)🙏🙏🙏</b>
+	<summary>💡About Me</summary>	
+	<b>⑨⑨⑨BAKA⑨⑨⑨</b><br>
+	<b>OTAKU && ACGN Fans</b><br>
+	<del><b>此生无悔入东方</b></del><br>
+	<b>LANGUAGES: C, <del>C++</del>, Python</b><br>
+	<b>🙏🙏🙏大佬带带我 :)🙏🙏🙏</b><br>
+	<b>
+		Social anxiety disorder (SAD), also known as social phobia, is an anxiety disorder characterized by 
+		sentiments of fear and anxiety in social situations, causing considerable distress and impaired ability 
+		to function in at least some aspects of daily life. These fears can be triggered by perceived or 
+		actual scrutiny from others. Individuals with social anxiety disorder fear negative evaluation from other people.
+	</b><br>
+	<b>
+		Dissociative identity disorder (DID), previously known as multiple personality disorder (MPD), is a mental 
+		disorder characterized by the maintenance of at least two distinct and relatively enduring personality 
+		states. The disorder is accompanied by memory gaps beyond what would be explained by ordinary forgetfulness.
+	</b><br>
+	<del><b>It’s just written here, I don’t have these symptoms yet!</b></del><br>
 </details>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=life4gal&label=Profile%20views&color=0e75b6&style=flat" alt="life4gal" /> </p>
