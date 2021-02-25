@@ -1,25 +1,32 @@
 ### Hi there 👋! ✨Life4gal✨ is here!O(∩_∩)O~
 
-<details>
-	<summary>💡About Me</summary>	
-	<b>⑨⑨⑨BAKA⑨⑨⑨</b><br>
-	<b>OTAKU && ACGN Fans</b><br>
-	<del><b>此生无悔入东方</b></del><br>
-	<b>LANGUAGES: C, <del>C++</del>, Python</b><br>
-	<b>🙏🙏🙏大佬带带我 :)🙏🙏🙏</b><br>
-	<b>
-		Social anxiety disorder (SAD), also known as social phobia, is an anxiety disorder characterized by 
-		sentiments of fear and anxiety in social situations, causing considerable distress and impaired ability 
-		to function in at least some aspects of daily life. These fears can be triggered by perceived or 
-		actual scrutiny from others. Individuals with social anxiety disorder fear negative evaluation from other people.
-	</b><br>
-	<b>
-		Dissociative identity disorder (DID), previously known as multiple personality disorder (MPD), is a mental 
-		disorder characterized by the maintenance of at least two distinct and relatively enduring personality 
-		states. The disorder is accompanied by memory gaps beyond what would be explained by ordinary forgetfulness.
-	</b><br>
-	<del><b>It’s just written here, I don’t have these symptoms yet!</b></del><br>
-</details>
+_**⑨⑨⑨ BAKA ⑨⑨⑨**_
+
+**OTAKU && ACGN Fans**
+
+~~此生无悔入东方~~
+
+LANGUAGES: C,  ~~C++~~ , Python
+
+🙏🙏🙏大佬带带我🙏🙏🙏
+```text
+Social anxiety disorder (SAD), also known as social phobia, is an anxiety 
+disorder characterized by sentiments of fear and anxiety in social situations, 
+causing considerable distress and impaired ability to function in at least 
+some aspects of daily life. These fears can be triggered by perceived or
+actual scrutiny from others. Individuals with social anxiety disorder fear 
+negative evaluation from other people.
+```
+```text
+Dissociative identity disorder (DID), previously known as multiple personality 
+disorder (MPD), is a mental  disorder characterized by the maintenance of at 
+least two distinct and relatively enduring personality  states. The disorder 
+is accompanied by memory gaps beyond what would be explained by ordinary forgetfulness.
+```
+~~It’s just written here, I don’t have these symptoms yet!~~ :)
+
+Maybe I just need some confidence?
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=life4gal&label=Profile%20views&color=0e75b6&style=flat" alt="life4gal" /> </p>
 <p align="center"> <img src="./80278148_p0_master1200.jpg" alt="life4gal" /> </p>
