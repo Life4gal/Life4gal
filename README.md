@@ -33,22 +33,28 @@ Maybe I just need some confidence?
 
 <details>
   <summary>tags</summary>
-<p align="top"> 
-<img src="https://forthebadge.com/images/badges/ages-18.svg"/> <img src="https://forthebadge.com/images/badges/built-by-developers.svg"/> <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg"/> <img src="https://forthebadge.com/images/badges/fixed-bugs.svg"/> <img src="https://forthebadge.com/images/badges/fo-real.svg"/>
-<img src="https://forthebadge.com/images/badges/for-you.svg"/> <img src="https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg"/> <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg"/> <img src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg"/> <img src="https://forthebadge.com/images/badges/made-with-markdown.svg"/> <img src="https://forthebadge.com/images/badges/made-with-python.svg"/>
-<img src="https://forthebadge.com/images/badges/makes-people-smile.svg"/> <img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg"/> <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg"/> <img src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg"/>
-</p>
+<img src="https://forthebadge.com/images/badges/ages-18.svg"/> 
+<img src="https://forthebadge.com/images/badges/built-by-developers.svg"/> 
+<img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg"/> 
+<img src="https://forthebadge.com/images/badges/fixed-bugs.svg"/> 
+<img src="https://forthebadge.com/images/badges/fo-real.svg"/>
+<img src="https://forthebadge.com/images/badges/for-you.svg"/> 
+<img src="https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg"/> 
+<img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg"/> 
+<img src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg"/> 
+<img src="https://forthebadge.com/images/badges/made-with-markdown.svg"/> 
+<img src="https://forthebadge.com/images/badges/made-with-python.svg"/>
+<img src="https://forthebadge.com/images/badges/makes-people-smile.svg"/> 
+<img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg"/> 
+<img src="https://forthebadge.com/images/badges/works-on-my-machine.svg"/> 
+<img src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg"/>
 </details>
 
 <details>
   <summary>statistics</summary>
-<p align="top"> 
   <img src="https://github-readme-stats.life4gal.vercel.app/api/wakatime?username=Life4gal&show_icons=true&theme=synthwave&cache_seconds=1800"/>
   <img src="https://github-readme-stats.life4gal.vercel.app/api/top-langs/?username=Life4gal&hide=html&show_icons=true&theme=synthwave&cache_seconds=1800"/>
-</p>
-<p align="center"> 
   <img src="https://github-readme-stats.life4gal.vercel.app/api?username=Life4gal&show_icons=true&theme=synthwave&cache_seconds=1800"/>
-</p>
 </details>
 
 <details>
