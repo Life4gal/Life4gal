@@ -62,8 +62,8 @@ Maybe I just need some confidence?
 
 <details>
   <summary>wakatime</summary>
-<img src="https://wakatime.com/share/@Life4gal/633d8d59-f19c-49e3-ab6d-d1978de891a7.svg"/>
-<img src="https://wakatime.com/share/@Life4gal/7afc6a15-a71f-4d74-9d3e-f6b047170efe.svg"/>
-<img src="https://wakatime.com/share/@Life4gal/8e3ea035-ad45-4a5e-abfd-3cc0bf46b583.svg"/>
-<img src="https://wakatime.com/share/@Life4gal/2420db5f-5f96-43d2-8daa-1a1ec8908b88.svg"/>
+<img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true"/>
+<img src="https://wakatime.com/share/@Life4gal/404666b2-d1ff-4388-94e0-a1935d341f14.svg?sanitize=true"/>
+<img src="https://wakatime.com/share/@Life4gal/972212ce-6084-4d98-a326-1997606ddf37.svg?sanitize=true"/>
+<img src="https://wakatime.com/share/@Life4gal/7ae4ead0-e1fd-412a-afcb-da977a5ae5e9.svg?sanitize=true"/>
 </details>
