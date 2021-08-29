@@ -6,7 +6,7 @@ _**⑨⑨⑨ BAKA ⑨⑨⑨**_
 
 ~~此生无悔入东方~~
 
-LANGUAGES: C,  ~~C++~~ , Python
+LANGUAGES: ~~C++~~
 
 🙏🙏🙏大佬带带我🙏🙏🙏
 
@@ -16,41 +16,8 @@ LANGUAGES: C,  ~~C++~~ , Python
 <details>
   <summary>me</summary>
   <p>
-Social anxiety disorder (SAD), also known as social phobia, is an anxiety 
-disorder characterized by sentiments of fear and anxiety in social situations, 
-causing considerable distress and impaired ability to function in at least 
-some aspects of daily life. These fears can be triggered by perceived or
-actual scrutiny from others. Individuals with social anxiety disorder fear 
-negative evaluation from other people.
+    This will be a different beginning!
   </p>
-  <p>
-Dissociative identity disorder (DID), previously known as multiple personality 
-disorder (MPD), is a mental  disorder characterized by the maintenance of at 
-least two distinct and relatively enduring personality  states. The disorder 
-is accompanied by memory gaps beyond what would be explained by ordinary forgetfulness.
-  </p>
-~~It’s just written here, I don’t have these symptoms yet!~~ :)
-
-Maybe I just need some confidence?
-</details>
-
-<details>
-  <summary>tags</summary>
-<img src="https://forthebadge.com/images/badges/ages-18.svg"/> 
-<img src="https://forthebadge.com/images/badges/built-by-developers.svg"/> 
-<img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg"/> 
-<img src="https://forthebadge.com/images/badges/fixed-bugs.svg"/> 
-<img src="https://forthebadge.com/images/badges/fo-real.svg"/>
-<img src="https://forthebadge.com/images/badges/for-you.svg"/> 
-<img src="https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg"/> 
-<img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg"/> 
-<img src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg"/> 
-<img src="https://forthebadge.com/images/badges/made-with-markdown.svg"/> 
-<img src="https://forthebadge.com/images/badges/made-with-python.svg"/>
-<img src="https://forthebadge.com/images/badges/makes-people-smile.svg"/> 
-<img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg"/> 
-<img src="https://forthebadge.com/images/badges/works-on-my-machine.svg"/> 
-<img src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg"/>
 </details>
 
 <details>
