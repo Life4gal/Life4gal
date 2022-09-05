@@ -14,6 +14,8 @@ LANGUAGES: ~~C++~~
 
 <p align="center"> <img src="./images/⑨.jpg" alt="life4gal" /> </p>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/Life4gal/Life4gal/output/github-contribution-grid-snake.svg)
+
 <details>
 	<summary>statistics</summary>
 	<img src="https://github-profile-trophy.vercel.app/?username=life4gal" alt=""/>
