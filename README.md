@@ -12,6 +12,9 @@ LANGUAGES: ~~C++~~
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Life4gal/Life4gal/snake_branch/github-contribution-grid-snake.svg)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true" alt=""/>
 
 <p align="center"> <img src="./images/⑨.jpg" alt="life4gal" /> </p>
