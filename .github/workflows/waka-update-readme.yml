@@ -11,7 +11,9 @@ jobs:
     update-readme:
         runs-on: ubuntu-latest
         timeout-minutes: 10
-        
+        # todo: really?
+        environment: Production
+
         steps:
             - name: Update Readme with Metrics
               uses: anmol098/waka-readme-stats@master
