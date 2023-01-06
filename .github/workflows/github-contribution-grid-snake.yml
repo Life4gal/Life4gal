@@ -20,7 +20,7 @@ jobs:
                   svg_out_path: dist/github-contribution-grid-snake.svg
             
             - name: push github-contribution-grid-snake.svg to the snake_branch branch
-              uses: crazy-max/ghaction-github-pages@v2.5.0
+              uses: crazy-max/ghaction-github-pages@v3
               with:
                   target_branch: snake_branch
                   build_dir: dist
