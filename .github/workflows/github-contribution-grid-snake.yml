@@ -2,7 +2,7 @@ name: github-contribution-grid-snake
 
 on:
     schedule:
-        - cron: "0 */12 * * *"
+        - cron: "0 0 * * *"
     push:
         branches: [ main ]
     workflow_dispatch:
@@ -17,7 +17,19 @@ jobs:
               uses: Platane/snk@v2.1.0
               with:
                   github_user_name: ${{ github.repository_owner }}
-                  svg_out_path: dist/github-contribution-grid-snake.svg
+                  # list of files to generate.
+                  # one file per line. Each output can be customized with options as query string.
+                  #
+                  #  supported options:
+                  #  - palette:     A preset of color, one of [github, github-dark, github-light]
+                  #  - color_snake: Color of the snake
+                  #  - color_dots:  Coma separated list of dots color.
+                  #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+                  #                 Exactly 5 colors are expected.
+                  outputs: |
+                    dist/github-contribution-grid-snake.svg
+                    dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+                    dist/github-contribution-grid-snake-ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
             
             - name: push github-contribution-grid-snake.svg to the snake_branch branch
               uses: crazy-max/ghaction-github-pages@v3
