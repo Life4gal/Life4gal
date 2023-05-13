@@ -13,7 +13,7 @@ LANGUAGES: ~~C++~~
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Life4gal/Life4gal/snake_branch/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C116%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C118%20hrs%202%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -52,17 +52,17 @@ Sunday                   298 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      15 hrs 22 mins      ████████████████████████░   95.14 % 
-CMake                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-C                        11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+C++                      16 hrs 47 mins      ████████████████████████░   95.48 % 
+CMake                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+C                        12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Visual Studio            16 hrs 9 mins       █████████████████████████   100.00 % 
+Visual Studio            17 hrs 35 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  16 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  17 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -82,7 +82,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Life4gal/Life4gal/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2023 00:55:40 UTC
+ Last Updated on 13/05/2023 00:53:18 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true" alt=""/>
