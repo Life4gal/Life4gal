@@ -60,7 +60,6 @@ C                        2 mins              ░░░░░░░░░░░�
 
 🔥 Editors: 
 Visual Studio            27 hrs 4 mins       █████████████████████████   100.00 % 
-CLion                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
 Windows                  27 hrs 4 mins       █████████████████████████   100.00 % 
@@ -83,7 +82,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Life4gal/Life4gal/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2023 00:59:02 UTC
+ Last Updated on 23/05/2023 00:56:21 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true" alt=""/>
