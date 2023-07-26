@@ -13,7 +13,7 @@ LANGUAGES: ~~C++~~
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Life4gal/Life4gal/snake_branch/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C375%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C381%20hrs%2047%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -52,17 +52,18 @@ Sunday                   299 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      21 hrs 58 mins      ██████████████████░░░░░░░   72.73 % 
-CMake                    8 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+C++                      27 hrs 59 mins      ███████████████████████░░   90.78 % 
+CMake                    2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+C                        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-C                        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-CLion                    16 hrs 5 mins       █████████████░░░░░░░░░░░░   53.22 % 
-Visual Studio            14 hrs 8 mins       ████████████░░░░░░░░░░░░░   46.78 % 
+Visual Studio            16 hrs 5 mins       █████████████░░░░░░░░░░░░   52.19 % 
+CLion                    14 hrs 44 mins      ████████████░░░░░░░░░░░░░   47.81 % 
 
 💻 Operating System: 
-Windows                  30 hrs 13 mins      █████████████████████████   100.00 % 
+Windows                  30 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -82,7 +83,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Life4gal/Life4gal/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2023 01:04:51 UTC
+ Last Updated on 26/07/2023 01:00:17 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true" alt=""/>
