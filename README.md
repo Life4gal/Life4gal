@@ -13,7 +13,7 @@ LANGUAGES: ~~C++~~
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Life4gal/Life4gal/snake_branch/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C586%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C587%20hrs%2016%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -52,17 +52,17 @@ Sunday                   312 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   19 hrs 38 mins      ██████████████████████░░░   89.05 % 
-C++                      2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Assembly                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-CMake                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Python                   20 hrs              ██████████████████████░░░   87.98 % 
+C++                      2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Assembly                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+CMake                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 Ezhil                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Visual Studio            22 hrs 3 mins       █████████████████████████   100.00 % 
+Visual Studio            22 hrs 44 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  22 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -82,7 +82,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Life4gal/Life4gal/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2023 00:47:56 UTC
+ Last Updated on 12/09/2023 00:45:41 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true" alt=""/>
