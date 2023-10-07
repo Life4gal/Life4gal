@@ -52,16 +52,13 @@ Sunday                   312 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      2 hrs 45 mins       █████████████████████░░░░   82.02 % 
-C                        25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-CMake                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-GDScript3                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            3 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -81,7 +78,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Life4gal/Life4gal/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2023 00:48:08 UTC
+ Last Updated on 07/10/2023 00:47:07 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true" alt=""/>
