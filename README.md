@@ -25,6 +25,21 @@ LANGUAGES: ~~C++~~
  > 
 > 🔑 14 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C++                      24 hrs 46 mins      ████████████████████░░░░░   81.33 % 
+C                        5 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+CMake                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+CLion                    22 hrs 7 mins       ██████████████████░░░░░░░   72.60 % 
+Visual Studio            8 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -42,7 +57,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Life4gal/Life4gal/main/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2023 00:52:53 UTC
+ Last Updated on 24/11/2023 00:50:58 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true" alt=""/>
