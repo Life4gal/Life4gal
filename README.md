@@ -13,7 +13,7 @@ LANGUAGES: ~~C++~~
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Life4gal/Life4gal/snake_branch/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C841%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C848%20hrs%2016%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -31,14 +31,14 @@ LANGUAGES: ~~C++~~
 
 ```text
 💬 Programming Languages: 
-C++                      18 hrs 25 mins      █████████████░░░░░░░░░░░░   52.80 % 
-C                        16 hrs 24 mins      ████████████░░░░░░░░░░░░░   47.03 % 
-CMake                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+C++                      18 hrs 47 mins      █████████████░░░░░░░░░░░░   53.54 % 
+C                        16 hrs 14 mins      ████████████░░░░░░░░░░░░░   46.26 % 
+CMake                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-CLion                    34 hrs 52 mins      █████████████████████████   100.00 % 
+CLion                    35 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -58,7 +58,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Life4gal/Life4gal/main/assets/bar_graph.png)
 
 
- Last Updated on 28/11/2023 00:53:24 UTC
+ Last Updated on 29/11/2023 00:53:44 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true" alt=""/>
