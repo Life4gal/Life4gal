@@ -13,7 +13,7 @@ LANGUAGES: ~~C++~~
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Life4gal/Life4gal/snake_branch/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C869%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C875%20hrs%2042%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -31,16 +31,17 @@ LANGUAGES: ~~C++~~
 
 ```text
 💬 Programming Languages: 
-C++                      21 hrs 38 mins      ████████████████░░░░░░░░░   63.63 % 
-C                        5 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-JavaScript               4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+C++                      26 hrs 25 mins      ███████████████████░░░░░░   77.63 % 
+JavaScript               4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
 JSON                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+C                        35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 TypeScript               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-CLion                    25 hrs 47 mins      ███████████████████░░░░░░   75.85 % 
-WebStorm                 6 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-Visual Studio            1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+CLion                    25 hrs 41 mins      ███████████████████░░░░░░   75.50 % 
+WebStorm                 6 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Visual Studio            1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+PyCharm                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 
 **I Mostly Code in C++** 
@@ -60,7 +61,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Life4gal/Life4gal/main/assets/bar_graph.png)
 
 
- Last Updated on 02/12/2023 00:51:34 UTC
+ Last Updated on 03/12/2023 00:55:35 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true" alt=""/>
