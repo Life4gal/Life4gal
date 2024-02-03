@@ -13,13 +13,13 @@ LANGUAGES: ~~C++~~
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Life4gal/Life4gal/snake_branch/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C171%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C181%20hrs%201%20min-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 200.8 kB Used in GitHub's Storage 
+> 📦 200.9 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 102 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,15 +31,14 @@ LANGUAGES: ~~C++~~
 
 ```text
 💬 Programming Languages: 
-C++                      38 hrs 37 mins      █████████████████████████   99.16 % 
-CMake                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+C++                      38 hrs 12 mins      █████████████████████████   99.80 % 
+CMake                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 HLSL                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-CLion                    37 hrs 24 mins      ████████████████████████░   96.06 % 
-Visual Studio            1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+CLion                    36 hrs 44 mins      ████████████████████████░   95.99 % 
+Visual Studio            1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 ```
 
 **I Mostly Code in C++** 
@@ -59,7 +58,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Life4gal/Life4gal/main/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2024 00:50:24 UTC
+ Last Updated on 03/02/2024 00:49:31 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true" alt=""/>
