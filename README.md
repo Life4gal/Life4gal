@@ -13,7 +13,7 @@ LANGUAGES: ~~C++~~
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Life4gal/Life4gal/snake_branch/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C269%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C275%20hrs%2043%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -31,15 +31,16 @@ LANGUAGES: ~~C++~~
 
 ```text
 💬 Programming Languages: 
-C++                      39 hrs 28 mins      █████████████████████████   99.42 % 
+C++                      37 hrs 33 mins      ████████████████████████░   96.96 % 
+JavaScript               36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+HTML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 CMake                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-C                        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-CLion                    37 hrs 13 mins      ███████████████████████░░   93.74 % 
-Visual Studio            2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+CLion                    35 hrs 5 mins       ███████████████████████░░   90.56 % 
+Visual Studio            2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+WebStorm                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 ```
 
 **I Mostly Code in C++** 
@@ -59,7 +60,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Life4gal/Life4gal/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2024 00:49:01 UTC
+ Last Updated on 28/02/2024 00:49:25 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true" alt=""/>
