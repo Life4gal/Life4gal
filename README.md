@@ -13,11 +13,11 @@ LANGUAGES: ~~C++~~
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Life4gal/Life4gal/snake_branch/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C401%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C409%20hrs%204%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 201.0 kB Used in GitHub's Storage 
+> 📦 201.1 kB Used in GitHub's Storage 
  > 
 > 🏆 177 Contributions in the Year 2024
  > 
@@ -31,15 +31,15 @@ LANGUAGES: ~~C++~~
 
 ```text
 💬 Programming Languages: 
-C++                      33 hrs 45 mins      ██████████████████████░░░   89.65 % 
-CMake                    3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-C                        28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+C++                      32 hrs 33 mins      ██████████████████████░░░   86.79 % 
+CMake                    4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+C                        27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 Shell Script             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-CLion                    24 hrs 33 mins      ████████████████░░░░░░░░░   65.21 % 
-Visual Studio            13 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   34.79 % 
+CLion                    20 hrs 19 mins      ██████████████░░░░░░░░░░░   54.17 % 
+Visual Studio            17 hrs 11 mins      ███████████░░░░░░░░░░░░░░   45.83 % 
 ```
 
 **I Mostly Code in C++** 
@@ -59,7 +59,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Life4gal/Life4gal/main/assets/bar_graph.png)
 
 
- Last Updated on 22/03/2024 00:49:42 UTC
+ Last Updated on 23/03/2024 00:48:36 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true" alt=""/>
