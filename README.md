@@ -13,13 +13,13 @@ LANGUAGES: ~~C++~~
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Life4gal/Life4gal/snake_branch/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C575%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C580%20hrs%2042%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 201.1 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 296 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,15 +31,14 @@ LANGUAGES: ~~C++~~
 
 ```text
 💬 Programming Languages: 
-C++                      36 hrs 27 mins      ████████████████████████░   96.63 % 
-C                        36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-CMake                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+C++                      35 hrs              ████████████████████████░   97.08 % 
+Other                    37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+C                        20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+CMake                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-CLion                    26 hrs 24 mins      ██████████████████░░░░░░░   70.00 % 
-Visual Studio            11 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Visual Studio            23 hrs 14 mins      ████████████████░░░░░░░░░   64.44 % 
+CLion                    12 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   35.56 % 
 ```
 
 **I Mostly Code in C++** 
@@ -59,7 +58,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Life4gal/Life4gal/main/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2024 00:52:00 UTC
+ Last Updated on 28/04/2024 00:56:08 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true" alt=""/>
