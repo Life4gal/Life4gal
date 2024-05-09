@@ -13,13 +13,13 @@ LANGUAGES: ~~C++~~
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Life4gal/Life4gal/snake_branch/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C595%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C597%20hrs%2035%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 201.2 kB Used in GitHub's Storage 
  > 
-> 🏆 352 Contributions in the Year 2024
+> 🏆 381 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,14 +31,13 @@ LANGUAGES: ~~C++~~
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 32 mins       ████████████████████░░░░░   81.13 % 
-C#                       1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-C++                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+C++                      1 hr 37 mins        ████████████░░░░░░░░░░░░░   46.86 % 
+C#                       1 hr 11 mins        █████████░░░░░░░░░░░░░░░░   34.75 % 
+Other                    37 mins             █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-PyCharm                  6 hrs 32 mins       ████████████████████░░░░░   81.31 % 
-Visual Studio            1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Visual Studio            3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -58,7 +57,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Life4gal/Life4gal/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2024 00:43:31 UTC
+ Last Updated on 09/05/2024 00:53:23 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true" alt=""/>
