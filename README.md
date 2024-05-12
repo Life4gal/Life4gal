@@ -19,6 +19,8 @@ LANGUAGES: ~~C++~~
 
 > 📦 201.2 kB Used in GitHub's Storage 
  > 
+> 🏆 381 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 35 Public Repositories 
@@ -58,7 +60,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Life4gal/Life4gal/main/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2024 00:53:09 UTC
+ Last Updated on 12/05/2024 00:57:26 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true" alt=""/>
