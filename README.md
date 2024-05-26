@@ -13,11 +13,13 @@ LANGUAGES: ~~C++~~
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Life4gal/Life4gal/snake_branch/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C663%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C667%20hrs%2030%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 201.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 431 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,16 +31,16 @@ LANGUAGES: ~~C++~~
 
 ```text
 💬 Programming Languages: 
-C++                      30 hrs 32 mins      ████████████████████████░   97.57 % 
-CMake                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+C++                      26 hrs 24 mins      █████████████████████████   98.27 % 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+CMake                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-Visual Studio            18 hrs 31 mins      ███████████████░░░░░░░░░░   59.19 % 
-CLion                    12 hrs 40 mins      ██████████░░░░░░░░░░░░░░░   40.49 % 
-PyCharm                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Visual Studio            22 hrs 2 mins       █████████████████████░░░░   82.01 % 
+CLion                    4 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+PyCharm                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 
 **I Mostly Code in C++** 
@@ -58,7 +60,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Life4gal/Life4gal/main/assets/bar_graph.png)
 
 
- Last Updated on 25/05/2024 00:54:37 UTC
+ Last Updated on 26/05/2024 00:58:42 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true" alt=""/>
