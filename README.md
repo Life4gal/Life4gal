@@ -13,11 +13,13 @@ LANGUAGES: ~~C++~~
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Life4gal/Life4gal/snake_branch/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C770%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C776%20hrs%2042%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 201.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 432 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,15 +31,14 @@ LANGUAGES: ~~C++~~
 
 ```text
 💬 Programming Languages: 
-C++                      28 hrs 16 mins      ███████████████████░░░░░░   77.32 % 
-Other                    6 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-CMake                    1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+C++                      29 hrs 37 mins      ████████████████████░░░░░   81.49 % 
+Other                    5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+CMake                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+C                        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-Visual Studio            32 hrs 50 mins      ██████████████████████░░░   89.80 % 
-CLion                    3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Visual Studio            36 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -57,7 +58,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Life4gal/Life4gal/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2024 00:55:48 UTC
+ Last Updated on 21/06/2024 00:56:32 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true" alt=""/>
