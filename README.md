@@ -15,6 +15,8 @@ LANGUAGES: ~~C++~~
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 12 hrs 33 mins
+
 C++              11 hrs 11 mins  ██████████████░░░░░░░░░░░   56.45 %
 Other            7 hrs 16 mins   █████████▒░░░░░░░░░░░░░░░   36.67 %
 CMake            54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
