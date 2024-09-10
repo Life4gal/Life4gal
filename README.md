@@ -19,27 +19,14 @@ LANGUAGES: ~~C++~~
 
 > 📦 203.1 kB Used in GitHub's Storage 
  > 
+> 🏆 829 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 35 Public Repositories 
  > 
 > 🔑 14 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    19 hrs 26 mins      ███████████████████░░░░░░   76.40 % 
-C++                      5 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
-CMake                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-🔥 Editors: 
-Visual Studio            24 hrs 48 mins      ████████████████████████░   97.54 % 
-CLion                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -57,7 +44,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Life4gal/Life4gal/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2024 10:33:51 UTC
+ Last Updated on 10/09/2024 02:34:55 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true" alt=""/>
