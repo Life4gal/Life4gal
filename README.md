@@ -13,6 +13,8 @@ LANGUAGES: ~~C++~~
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Life4gal/Life4gal/snake_branch/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C213%20hrs%2012%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -27,6 +29,22 @@ LANGUAGES: ~~C++~~
  > 
 > 🔑 14 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    18 hrs 56 mins      █████████████████░░░░░░░░   66.79 % 
+C++                      6 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+CMake                    1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+C                        42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Python                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+
+🔥 Editors: 
+Visual Studio            23 hrs 2 mins       ████████████████████░░░░░   81.29 % 
+CLion                    4 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+PyCharm                  26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -44,7 +62,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Life4gal/Life4gal/main/assets/bar_graph.png)
 
 
- Last Updated on 04/11/2024 03:03:06 UTC
+ Last Updated on 07/11/2024 03:01:46 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true" alt=""/>
