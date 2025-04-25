@@ -13,28 +13,28 @@ LANGUAGES: ~~C++~~
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Life4gal/Life4gal/snake_branch/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 205.1 kB Used in GitHub's Storage 
+> 📦 206.4 kB Used in GitHub's Storage 
  > 
-> 🏆 291 Contributions in the Year 2025
+> 🏆 293 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 35 Public Repositories 
  > 
-> 🔑 14 Private Repositories 
+> 🔑 15 Private Repositories 
  > 
 **I Mostly Code in C++** 
 
 ```text
-C++                      22 repos            █████████████░░░░░░░░░░░░   52.38 % 
-CMake                    9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Vim Script               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+C++                      23 repos            █████████████░░░░░░░░░░░░   53.49 % 
+CMake                    9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Vim Script               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 
 
@@ -44,7 +44,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Life4gal/Life4gal/main/assets/bar_graph.png)
 
 
- Last Updated on 22/04/2025 03:53:18 UTC
+ Last Updated on 25/04/2025 03:55:47 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true" alt=""/>
