@@ -13,43 +13,43 @@ LANGUAGES: ~~C++~~
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Life4gal/Life4gal/snake_branch/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C821%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C824%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 206.9 kB Used in GitHub's Storage 
+> 📦 184.4 kB Used in GitHub's Storage 
  > 
-> 🏆 443 Contributions in the Year 2025
+> 🏆 454 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 33 Public Repositories 
  > 
-> 🔑 15 Private Repositories 
+> 🔑 17 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      26 hrs 45 mins      ████████████████████████░   94.48 % 
-C                        1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+C++                      29 hrs 14 mins      ███████████████████████░░   92.14 % 
+C                        1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+CMake                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-Visual Studio            28 hrs 18 mins      █████████████████████████   100.00 % 
+Visual Studio            31 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      23 repos            █████████████░░░░░░░░░░░░   53.49 % 
-CMake                    9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Vim Script               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+C++                      24 repos            ██████████████░░░░░░░░░░░   54.55 % 
+CMake                    9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Vim Script               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 
@@ -59,7 +59,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Life4gal/Life4gal/main/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2025 04:33:19 UTC
+ Last Updated on 04/06/2025 04:35:27 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true" alt=""/>
