@@ -13,13 +13,15 @@ LANGUAGES: ~~C++~~
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Life4gal/Life4gal/snake_branch/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C087%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C104%20hrs%2049%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 188.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 955 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,14 +33,15 @@ LANGUAGES: ~~C++~~
 
 ```text
 💬 Programming Languages: 
-C++                      40 hrs 14 mins      ███████████████████████░░   90.63 % 
-CMake                    3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-C                        34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+C++                      51 hrs 4 mins       ███████████████████████░░   90.88 % 
+CMake                    4 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+C                        32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-Visual Studio            44 hrs 23 mins      █████████████████████████   100.00 % 
+Visual Studio            55 hrs 40 mins      █████████████████████████   99.06 % 
+CLion                    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 
 **I Mostly Code in C++** 
@@ -58,7 +61,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Life4gal/Life4gal/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2025 01:41:51 UTC
+ Last Updated on 22/08/2025 01:31:38 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true" alt=""/>
