@@ -13,13 +13,15 @@ LANGUAGES: ~~C++~~
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Life4gal/Life4gal/snake_branch/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C113%20hrs%2036%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 189.2 kB Used in GitHub's Storage 
+> 📦 189.3 kB Used in GitHub's Storage 
  > 
-> 🏆 961 Contributions in the Year 2025
+> 🏆 973 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,7 +46,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Life4gal/Life4gal/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2025 01:43:49 UTC
+ Last Updated on 28/08/2025 01:28:57 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@Life4gal/86c21846-f841-4004-aed1-e1165eb797d6.svg?sanitize=true" alt=""/>
